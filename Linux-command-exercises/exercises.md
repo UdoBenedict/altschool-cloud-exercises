@@ -1,4 +1,4 @@
-1. find command. This command returns all files, directories in the search result as regards how it is used. Example: find . -name "*.md" (this locates files with extension .md in the current directory)
+1. find command. This command returns all files, directories in the search result as regards how it is used. Example; find . -name "*.md" (this locates files with extension .md in the current directory)
 
 1. more command. It returns information in a file page by page. Example; more fake001.log
 
